@@ -1,0 +1,11 @@
+import turtle
+t=turtle.Turtle()
+t.speed(100)
+t.left(50)
+t.circle(100,180)
+t.right(100)
+t.circle(100,180)
+t.forward(235)
+t.left(98)
+t.forward(235)
+turtle.done()
