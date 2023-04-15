@@ -1,0 +1,14 @@
+Animal : 
+Male lion
+Family : 
+Felidae
+Binomial name : 
+Panthera Leo
+Habitat : 
+Africa
+Head-and-body length : 
+170-298 cm
+Tail length : 
+90-105 cm
+Weight : 
+150-250 kg
